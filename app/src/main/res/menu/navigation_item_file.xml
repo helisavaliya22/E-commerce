@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Add Product"
+        android:id="@+id/addproduct"
+        android:icon="@drawable/baseline_add_to_queue_24"/>
+
+    <item
+        android:title="View Product"
+        android:id="@+id/viewproduct"
+        android:icon="@drawable/baseline_preview_24"/>
+
+    <item android:id="@+id/showAllProduct"
+        android:title="Show all Products"
+        android:icon="@drawable/baseline_checklist_24"/>
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/baseline_logout_24"/>
+</menu>
